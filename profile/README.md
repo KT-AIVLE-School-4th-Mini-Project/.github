@@ -49,3 +49,10 @@ AI 표지 생성 기능과 직관적인 독서/집필 경험을 통해 창작의
 |                               [진지현](https://github.com/serioushyeon)                               |                                [이종헌](https://github.com/jjongjjongR)                                |                             [김건우](https://github.com/withoutsultang)                              |                               [이수빈](https://github.com/leesupin)                                |
 |                                       BackEnd                                       |                                         BackEnd                                         |                                   BackEnd                                    |                                   BackEnd                                   |
 
+
+### ☁️ cloud
+
+| <img src="https://avatars.githubusercontent.com/jjongjjongR" width="150dp" height="150dp"> | <img src="https://avatars.githubusercontent.com/leesuoh" width="150dp" height="150dp"> | <img src="https://avatars.githubusercontent.com/withoutsultang" width="150dp" height="150dp"> | <img src="https://avatars.githubusercontent.com/uh004" width="150dp" height="150dp"> | <img src="https://avatars.githubusercontent.com/serioushyeon" width="150dp" height="150dp"> | <img src="https://avatars.githubusercontent.com/leesupin" width="150dp" height="150dp"> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [이종헌](https://github.com/jjongjjongR) | [이수오](https://github.com/leesuoh) | [김건우](https://github.com/withoutsultang) | [배수한](https://github.com/uh004) | [진지현](https://github.com/serioushyeon) | [이수빈](https://github.com/leesupin) |
+| Infra | Infra | Infra | Dev | Dev | Monitoring |
